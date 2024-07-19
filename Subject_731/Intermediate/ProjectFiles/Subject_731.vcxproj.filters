@@ -11,6 +11,7 @@
     <None Include="..\..\Source\Subject_731Editor.Target.cs">
       <Filter>Source</Filter>
     </None>
+    <None Include="..\..\.vsconfig" />
     <Filter Include="Config">
       <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
     </Filter>
@@ -36,6 +37,12 @@
       <Filter>Source\Subject_731</Filter>
     </ClCompile>
     <ClInclude Include="..\..\Source\Subject_731\Subject_731.h">
+      <Filter>Source\Subject_731</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Subject_731\TestCharacter.cpp">
+      <Filter>Source\Subject_731</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Subject_731\TestCharacter.h">
       <Filter>Source\Subject_731</Filter>
     </ClInclude>
   </ItemGroup>
