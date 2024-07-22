@@ -72,3 +72,5 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+Subject_731/Saved/Logs/Subject_731.log
+Subject_731/Saved/Telemetry/Telemetry.json
